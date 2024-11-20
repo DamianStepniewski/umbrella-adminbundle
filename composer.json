@@ -37,7 +37,7 @@
         "symfony/options-resolver": "^7.0",
         "symfony/twig-bundle": "^7.0",
         "symfony/yaml": "^7.0",
-        "umbrella2/umbrella-corebundle": "dev-master",
+        "umbrella2/umbrella-corebundle": "dev-symfony7.0",
         "symfony/maker-bundle": "^1.36",
         "stof/doctrine-extensions-bundle": "^1.7"
     },
